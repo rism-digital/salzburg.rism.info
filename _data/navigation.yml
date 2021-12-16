@@ -1,0 +1,26 @@
+- name:
+    en: "Home"
+    de: "Startseite"
+    fr: "Accueil"
+  link: /index.html
+- name:
+    en: "Projects"
+    de: "Projekte"
+    fr: "Projects"
+  link: /projects.html
+- name:
+    en: "Organization"
+    de: "Organisation"
+    fr: "Organisation"
+  link: /organization.html
+- name:
+    en: "Publications"
+    de: "Publikationen"
+    fr: "Publications"
+  link: /publications.html
+- name:
+    en: "Editorial Center"
+    de: "Zentralredaktion"
+    fr: "Editorial Center"
+  link: https://rism.info/editorial-center.html
+  blank: true

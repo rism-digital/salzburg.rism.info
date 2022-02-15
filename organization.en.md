@@ -22,6 +22,6 @@ permalink: /organization.html
 ## The RISM Salzburg Working Group
 
 The RISM Salzburg working group was founded in 2007. Led by Univ. Doz. Dr. Ernst Hintermaier, the former head of the Archive of the Archdiocese (Archiv der Erzdioezese Salzburg), the musicologists Mag. Dr. Eva Neumayr and Mag. Lars E. Lauhold have catalogued the holdings of the Cathedral Music Archive up to the dissolution of the court chapel in 1807... 
-[continue](/organization/ag)
+[continue](/organization/ag.html)
 
 

@@ -1,6 +1,6 @@
 # Mitglieder
 
-[Ernst Hintermaier](/organization/hintermaier)  
-[Eva Neumayr](/organization/neumayr)  
-[Lars E. Laubhold](/organization/laubhold)  
+[Ernst Hintermaier](/organization/hintermaier.html)  
+[Eva Neumayr](/organization/neumayr.html)  
+[Lars E. Laubhold](/organization/laubhold.html)  
  

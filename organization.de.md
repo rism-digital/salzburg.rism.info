@@ -23,9 +23,9 @@ permalink: /organization.html
 ### Die RISM Arbeitsgruppe Salzburg
 
 Die RISM Arbeitsgruppe Salzburg wurde 2007 mit dem Ziel gegründet, die Musikalienbestände des Archivs der Erzdiözese Salzburg für die RISM-Datenbank zu erfassen ... 
-[weiterlesen](organization/ag)
+[weiterlesen](organization/ag.html)
 
  
 ### Das Archiv der Erzdiözese Salzburg (AES)
 Das Archiv der Erzdiözese Salzburg (ehemals Konsistorialarchiv) fand im Mai 2006 eine neue Heimstätte im „Kardinal-Schwarzenberg-Haus“ und zählt mit einer Nutzfläche von 2000 qm nun auch räumlich zu den größten Archiven Salzburgs...
-[weiterlesen](organization/archiv)
+[weiterlesen](organization/archiv.html)

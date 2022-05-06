@@ -21,7 +21,13 @@ permalink: '/projects/bestaendeerschliessung.html'
 
 Im November 2007 wurde dem Archiv der Erzdiözese unter seinem damaligen Leiter, Univ. Doz. Dr. Ernst Hintermaier, vom Fonds für wissenschaftliche Forschung der Akademie der Wissenschaften (FWF) das Forschungsprojekt „Das Musikrepertoire der Metropolitankirche zu Salzburg im 18. und 19. Jahrhundert“  (Projekt P 20309-G13) genehmigt. Dieses Projekt hatte sich zum Ziel gesetzt, die Quellen aus der Zeit zwischen 1700 und 1841 in digitaler Form aufzubereiten und für die Forschung zugänglich zu machen. Zwei Mitarbeiter, Mag. Dr. Eva Neumayr und Mag. Lars E. Laubhold, arbeiten nun an der Erfassung der Quellen. Gearbeitet wird mit dem Archivierungsprogramm KALLISTO, die Aufnahmen werden dem „Internationalen Quellenlexikon der Musik“ (RISM) zur Verfügung gestellt und sind über die RISM-Hompage für alle Interessierten frei zugänglich. Trotzdem wird, abgesehen davon, auch ein Katalog der Salzburger Bestände in Buchform erscheinen. Forschungsergebnisse in Bezug auf die lokale, nationale und internationale Musikgeschichte (z. B. Mozart-Forschung) und Erkenntnisse bezüglich der Liturgischen Praxis sind zu erwarten.
 
-Mit den Mitteln des im November 2010 bewilligten Projektes "Kirchenmusik am neuen Dom zu Salzburg im Spiegel der Quellen" (Projekt P 23195-G20) konnte die Katalogisierung des Bestandes fortgesetzt und im Februar 2012 mit der Aufnahme von 1800 Signaturen in nahezu 2700 Datensätzen zu einem vorläufigen Abschluss gebracht werden. Eine Ausweitung der Bestandserschließung, insbesondere auf die im "Dommusikverein und Mozarteum" (1841–1880) angelegte Musikaliensammlung, ist in Planung.
+Mit den Mitteln des im November 2010 bewilligten Projektes "Kirchenmusik am neuen Dom zu Salzburg im Spiegel der Quellen" (Projekt P 23195-G20) konnte die Katalogisierung des Bestandes fortgesetzt und im Februar 2012 mit der Aufnahme von 1800 Signaturen in nahezu 2700 Datensätzen zu einem vorläufigen Abschluss gebracht werden. 
+
+## Publikationen:
+
+_Dommusikarchiv Salzburg (A-Sd). Thematischer Katalog der musikalischen. Quellen, Reihe A_, bearbeitet von Eva Neumayr und Lars E. Laubhold unter der Projektleitung von Ernst Hintermaier, Wien: Hollitzer, 2018 (Veröffentlichungen des Archivs der Erzdiözese, 17). 
+
+Eva Neumayr, Lars Laubhold, Ernst Hintermaier, _Musik am Dom zu Salzburg. Repertoire und liturgisch gebundene Praxis zwischen hochbarocker Repräsentation und Mozart-Kult_, Wien: Hollitzer, 2018 (Veröffentlichungen des Archivs der Erzdiözese, 18).
 
 ## Bestände
 

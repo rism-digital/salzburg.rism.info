@@ -10,6 +10,6 @@ old_url: 'http://salzburg.rism.info/en/home/newsdetails/article/83/article-about
 author: 'Lars Laubhold'
 ---
 
-An article about the reception of Haydn's oratorio The Creation in Salzburg by Lars Laubhold, member of the RISM Working Group Salzburg, is now available at RISM.info (in German).
+An article about the reception of Haydn's oratorio _The Creation_ in Salzburg by Lars Laubhold, member of the RISM Working Group Salzburg, is now available at RISM.info (in German).
 
 

@@ -30,7 +30,4 @@ jobs:
             ${{ runner.os  }}-gems-v2-
 
       # Tune the jekyll action
-      - uses:  lemonarc/jekyll-action@1.0.-gems-v2-
-
-      # Tune the jekyll action
       - uses:  lemonarc/jekyll-action@1.0.00

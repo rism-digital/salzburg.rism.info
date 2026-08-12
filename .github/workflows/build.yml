@@ -27,3 +27,7 @@ jobs:
           bundler-cache: true
       - name: Build site
         run: bundle exec jekyll build
+          path: vendor/bundle
+          key: ${{ runner.os  }}-gems-${{ hashFiles('**/Gemfile.lock')  }}-v2
+          restore-keys: |
+            ${{ runner.os  }}-gems-v2-

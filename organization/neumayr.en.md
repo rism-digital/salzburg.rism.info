@@ -39,7 +39,7 @@ Graduation: Dr. phil. "with distinction"
 
 1990-1995
 
-Voice and violin pedagogy I (teaching certificate), Mozarteum, Salzburg
+Instrument and pedagogy I (teaching certificate), Mozarteum, Salzburg
 
 2000-2003
 
@@ -114,72 +114,68 @@ Irene E. Bolesny Music Stipend of the City of Salzburg
 Publications:
  
 Books:
-Die Propriumsvertonungen Johann Ernst Eberlins (1702−1762): Studien zu Quellen, Entwicklung, Komposition und Aufführungspraxis und Alphabetisches Verzeichnis, Frankfurt u.a. 2007 (Europäische Hochschulschriften, Reihe XXXVI: Musikwissenschaft, Bd. 248).
+1)	Eva Neumayr, Der „Mozart-Nachlass“. Musikalien aus dem Besitz der Söhne Wolfgang Amadé Mozarts in Salzburg, with contributions by Armin Brinzing and Till Reininghaus, Stuttgart: Carus-Verlag, 2021 (Beiträge zur Mozart-Dokumentation, hrsg. v. der Internationalen Stiftung Mozarteum, 3), 832 pp.
+2)	
+3)	Musik am Dom zu Salzburg. Repertoire und Liturgisch Gebundene Praxis zwischen hochbarocker Repräsentation und Mozart-Kult (with Lars Laubhold und Ernst Hintermaier), Wien: Hollitzer, 2018 (Schriftenreihe des Archivs der Erzdiözese Salzburg, 18)
+E-Book: https://e-book.fwf.ac.at/detail/o:1232#?q=Dom%20Salzburg&page=1&pagesize=10
 
-With Ernst Hintermaier and Lars E. Laubhold: Dommusikarchiv Salzburg (A-Sd, Reihe A). Thematischer Katalog der musikalischen Quellen[in preparation].
+4)	Dommusikarchiv Salzburg (A-Sd). Thematischer Katalog der Musikalischen Quellen, Reihe A (With Lars Laubhold), Hollitzer, Wien 2018 (Schriftenreihe des Archivs der Erzdiözese Salzburg, 17)
+https://doi.org/10.2307/j.ctvb1hrbz 
+E-Book: https://e-book.fwf.ac.at/detail/o:1205#?q=Dom%20Salzburg&page=1&pagesize=10
 
-With Ernst Hintermaier and Lars E. Laubhold: Musik am Salzburger Dom zwischen 1670 und 1841: Geschichte, Quellen, Hintergründe [in preparation].
+5) Die Propriumsvertonungen Johann Ernst Eberlins (1702−1762): Studien zu Quellen, Entwicklung, Komposition und Aufführungspraxis und Alphabetisches Verzeichnis, Frankfurt u.a. 2007 (Europäische Hochschulschriften, Reihe XXXVI: Musikwissenschaft, Bd. 248).
+
 
 Edited volumes
-Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817). Symposiumsbericht, ed. by Eva Neumayr and Lars E. Laubhold, Libreria Musicale Italiana: Lucca 2013 (Veröffentlichungen zur Salzburger Musikgeschichte 10, zugl. Musicologica Transalpina 2, zugl. Schriftenreihe des Archivs der Erzdiözese Salzburg 12). 
+1) Mater celeberr. Mozart. Anna Maria Mozart zum 300. Geburtstag, ed. by Anja Mozargenstern und Eva Neumayr, Wien: Hollitzer Verlag 2023 (Schriftenreihe des Archivs der Erzdiözese Salzburg, 27)
+3)	Maria Anna Mozart. Facetten einer Künstlerin, ed. by Eva Neumayr, Wien: Hollitzer Verlag 2019 (Schriftenreihe des Archivs der Erzdiözese, 20)
+   Review: Elisabeth Hilscher in: Musicologica Austriaca, 5.11.2020: http://www.musau.org/parts/neue-article-page/view/86
+4) Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817). Symposiumsbericht, ed. by Eva Neumayr and Lars E. Laubhold, Libreria Musicale Italiana: Lucca 2013 (Veröffentlichungen zur Salzburger Musikgeschichte 10, zugl. Musicologica Transalpina 2, zugl. Schriftenreihe des Archivs der Erzdiözese Salzburg 12). 
 
 Articles:
-1) Eva Neumayr: „…in das Welschland hinein geschicket, um aldorten in dem Singen zu perfectionieren…“ Salzburger Hofsängerinnen in Venedig, in: Tagungsband des Symposiums Von Venedig nach Salzburg. Kultureller und wirtschaftlicher Transfer, Venedig 24th–26th October 2013, hrsg. v. Thomas Hochradner [submitted].
-
-2) Eva Neumayr: Salzburger Requien der Vorklassik und ihr musikalisches Vokabular, Wissenschaftliches Jahrbuch der Tiroler Landesmuseen 2014, Innsbruck u.a.: Studienverlag, 2014 [submitted].1) "Das Vokabular der Requiemvertonungen Johann Ernst Eberlins (1702-1762)", Mozart-Jahrbuch, 2012, [in preparation].
-
-3) "Franz Xaver Gruber - Organist und Komponist", in: Franz Xaver Gruber - Zeichner und Maler, Organist und Komponist, hrsg. v. der Stille-Nacht-Gesellschaft, Salzburg: Edition Stille Nacht Gesellschaft, 2013, pp. 11-18.
-
-4) With Lars E. Laubhold: "Musik am Salzburger Dom im 19. Jahrhundert", in: Salzburgs Musikgeschichte im Zeichen des Provinzialismus? Die ersten Jahrzehnte des 19. Jahrhunderts, hrsg. v. Dominik Šedivý, Wien: Hollitzer, [in preparation].
-
-5) "Die Requiemvertonungen Luigi Gattis", in: Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817), Symposiumsbericht, hrsg. v. Eva Neumayr - Lars E. Laubhold unter der Projektleitung von Ernst Hintermaier, Lucca: LIM (Veröffentlichungen Salzburger Musikgeschichte 12, Musica Transalpina 2, Schriftenreihe des Archivs der Erzdiözese Salzburg 12), S. 387-417.
-
-6) With Ernst Hintermaier and Lars E. Laubhold: "Luigi (Maria Baldassare) Gatti. Salzburgs letzter Hofkapellmeister" , in: Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817), Symposiumsbericht, hrsg. v. Eva Neumayr - Lars E. Laubhold unter der Projektleitung von Ernst Hintermaier, LIM Verlag 2013  (Veröffentlichungen Salzburger Musikgeschichte 12, Musica Transalpina 2, Schriftenreihe des Archivs der Erzdiözese Salzburg 12), pp. 23-67.
-
-7) With Lars E. Laubhold: "Repertoire und Repertoireentwicklung in der Musik am Salzburger Dom in der ersten Hälfte des 19. Jahrhunderts. Beobachtungen am Musikalienbestand Dommusikarchiv im Archiv der Erzdiözese Salzburg", in: Salzburgs Musikgeschichte im Zeichen des Provinzialismus? Die ersten Jahrzehnte des 19. Jahrhunderts, hrsg. v. Dominik Šedivý, Wien: Hollitzer, [in preparation].
-
-8) With Lars E. Laubhold: "Luigi Gatti and the Collection of Salzburg Sources in the Library of the Conservatorio "Luigi Cherubini" in Florence", in: Luigi Gatti e la musica a Mantova e a Salisburgo nel secondo Settecento (Conservatorio "Lucio Campiani", Mantua, 9.-10. october 2010), ed. by Alessandro Lattanzi, Lucca: LIM [in preparation].
-
-9) With Lars E. Laubhold: "Luigi Gatti and the Catalogus Musicalis in Ecclesia Metropolitana of the Salzburg Cathedral",  in: Luigi Gatti e la musica a Mantova e a Salisburgo nel secondo Settecento (Conservatorio "Lucio Campiani", Mantua, 9.-10.october 2010), ed. by Alessandro Lattanzi, Lucca: LIM [in preparation].
-
-10) "Drei bisher unbekannte Autographe Franz Xaver Grubers (1787-1863) aus dem Besitz Joseph Mohrs (1792-1848)", in: Blätter der Stille-Nacht-Gesellschaft, 51 (2012), p. 7.
-
-11) "War Joseph Mohr (1792-1848) auch Komponist?" in: Blätter der Stille-Nacht-Gesellschaft, 49 (2010), pp. 1-5.
-
-12) With Lars E. Laubhold: " '...was mein Bruder in seinen Chören mit der Ewigkeit treibt...' Quellen zur frühen Rezeption von Joseph Haydns Schöpfung", in: Haydn-Studien, 10/1,  2010, pp. 55-70.
-
-13) With Lars E. Laubhold: "Quellen zur Rezeption des Requiems von W. A. Mozart in Salzburg im frühen 19. Jahrhundert", in: Mozart Jahrbuch, 2009/10, Kassel, 2011, pp. 187-209.
-
-14) "Die Quellen der Salzburger Dommusik in der Musikbibliothek des Benediktinerklosters Maria Einsiedeln" (mit Lars E. Laubhold), in: Schweizer Jahrbuch für Musikwissenschaft, 30 (2010), S. 163-188.
-
-15) "Zur Musikpflege der Salzburger Ursulinen in der ersten Hälfte des 18. Jahrhunderts", in: Klang-Quellen. Festschrift für Ernst Hintermaier zum 65. Geburtstag, hrsg. v. Gerhard Walterskirchen and Lars E. Laubhold, München: Strube, 2010 (Veröffentlichungen zur Salzburger Musikgeschichte, 9), pp. 102-112.
-
-16) "Zur Musikpflege im Salzburger Ursulinen-Konvent in der zweiten Hälfte des 18. Jahrhunderts", in: Kirchenmusikalisches Jahrbuch, 93 (2010), pp. 89-101.
-
-17) "Komponierende Zeitgenossinnen Mozarts und ihre Darstellung in Mozart-Biographien: Zum Frauenbild der Mozart-Biographen", in: "Ein unerschöpflicher Reichthum an Ideen..." Komponistinnen zur Zeit Mozarts, ed. by Elena Ostleitner and Gabriele Dorffner, Strasshof-Wien-Bad Aibling: 4/4 Verlag, 2006, pp. 139-151.
+1)	„Ursulinen und ihre Musikkultur am Beispiel des Salzburger Ursulinenklosters im 18. Jahrhundert“, in: Nora Pärr and Peter G. Tropper (eds.), Solo Deo gloria Serviam! Klagenfurt: Geschichtsverein für Kärnten, 2020, pp. 125−132.
+2)	„Zwischen Ehe und Kloster – Salzburgs Musikertöchter im 17. und 18. Jahrhundert“, in: Ulrike Kammerhofer-Aggermann, Verena Maria Höller (eds.), „...meiner lieben Frau Ehegattin Maria Anna geborene Mozart...“ Ehekontrakt, Testament und Nachlassinventar des Johann Baptist von Berchtold zu Sonnenburg (+1801), Salzburg: Salzburger Landesinstitut für Volkskunde 2020, pp. 441−465 (Salzburger Beiträge zur Volkskunde, 28).
+3)	 „Michael Haydn und Sigismund Christoph Graf Schrattenbach”, in: „...dauert ewig schön und unveraltet…”, in: Eva Maria Stöckler und Agnes Brandtner (eds.), Johann Michael Haydn – kein vergessener Meister! Wien: Hollitzer 2020, pp. 69–81.
+4)	„Zur musikalischen Topographie der Stadt und des Landes Salzburg vom Ende des 18. bis zum zweiten Drittel des 19. Jahrhunderts“, in: Thomas Hochradner (ed.), Wege zu Stille Nacht. Zur Vor- und Nachgeschichte einer „einfachen Composition, Wien: Hollitzer 2020 (Veröffentlichungen des Arbeitsschwerpunktes Salzburger Musikgeschichte, 8), pp. 120−132.
+5)	„Musik und Liturgie am Salzburger Dom”, in: Überall Musik! Der Salzburger Fürstenhof – ein Zentrum europäischer Musikkultur, Begleitheft zur Ausstellung in der Residenz zu Salzburg, Prunkräume, Nordoratorium, Museum St. Peter, Domquartier Salzburg, 19.7.2020–31.10.2021, pp. 65–69.
+6)	„Maria Anna Mozart als Klavierlehrerin“, in: Eva Neumayr (ed.), Maria Anna Mozart. Facetten einer Künstlerin, Wien: Hollitzer, 2019 (Veröffentlichungen des Archivs der Erzdiözese, 20), pp. 23−33.
+7)	„Die Notenschrift Maria Anna Mozarts“, “, in: Eva Neumayr (ed.), Maria Anna Mozart. Facetten einer Künstlerin, Wien: Hollitzer, 2019 (Veröffentlichungen des Archivs der Erzdiözese, 20) pp. 203−230.
+8)	Maria Anna Mozart. Brief an Breitkopf & Härtel. November 1799. Faksimile der originalen Handschrift mit einer Einführung von Eva Neumayr, Salzburg: Internationale Stiftung Mozarteum, 2019..
+9)	„Frühe Stille Nacht-Vertonungen aus dem Salzburger Raum“, in: Klaus Petermayr, Thekla Weissengruber (eds.), Stille Nacht! Heilige Nacht! Advent- und Weihnachtslieder in Oberösterreich, Linz: Linzer Landesmuseum, 2018 (Kleine Schriften zur Kulturgeschichte von Oberösterreich, 2), pp. 149─159.
+10)	 „Das Projekt ‚Mozart-Nachlass‘: Eine Kooperation zwischen der Internationalen Stiftung Mozarteum und dem Archiv der Erzdiözese Salzburg“ (mit Armin Brinzing), in: Forum Musikbibliothek, 39 (2018), Heft 3, pp. 22−30.
+11)	 „Komponisten zur Zeit Max Gandolphs“, in: Fürsterzbischof Max Gandolph von Kuenburg. Regisseur auf vielen Bühnen. 1668 1687, Dommuseum Salzburg 2018, pp. 123─125.
+12)	(mit Armin Brinzing): Nachlass als Denkmal, in: Mozart52, pp. 76─79.
+13)	„‘...den Unterricht im Mozarteum auch auf das weibliche Geschlecht ... auszudehnen...‘. Frauen am Mozarteum 1841−1922“, in: Julia Hinterberger (ed.), Von der Musikschule zum Konservatorium. Das Mozarteum 1841−1922, (Veröffentlichungen des Arbeitsschwerpunktes Salzburger Musikgeschichte, 4; Geschichte der Universität Mozarteum, 1; Veröffentlichungen zu Geschichte der Universität Mozarteum Salzburg, 10), Hollitzer, Wien 2017, pp. 212−237.
+14)	“Luigi Gatti and the Catalogus Musicalis in Ecclesia Metropolitana of the Salzburg Cathedral” (mit Lars E. Laubhold), in: Luigi Gatti (1740−1817). La Musica a Mantova e a Salisburgo tra Sette e Ottocento, hrsg. v. Alessandro Lattanzi unter Mitarbeit von E. Neumayr u. Lars Laubhold, Lucca: Liberia Musicale Italiana, 2017, pp. 147−167.
+15)	 “Luigi Gatti and the Collection of Salzburg Sources in the Library of the Conservatorio Luigi Cherubini in Florence” (mit Lars E. Laubhold), in: Luigi Gatti (1740−1817). La Musica a Mantova e a Salisburgo tra Sette e Ottocento, hrsg. v. Alessandro Lattanzi unter Mitarbeit von E. Neumayr u. Lars E. Laubhold, Lucca: Liberia Musicale Italiana, 2017, pp. 167−188.
+16)	 „Migration und Mobilität. Die Mitglieder der Salzburger Hofkapelle des 18. Jahrhunderts auf Reisen“, in: Wolfgang Gratzer Silvia Hahn, Michael Malkiewicz, Sabine Veits-Falk (eds.), Salzburg: Sounds of Migration. Geschichte und aktuelle Initiativen, Hollitzer, Wien 2016, S. 79–94.
+17)	 „ „…in das Welschland hinein geschicktet, um aldorten in dem Singen zu perfectionieren…“. Salzburger Hofsängerinnen in Venedig“, in: Von Venedig nach Salzburg. Spurenlese eines vielschichtigen Transfers, hrsg. v. Gerhard Ammerer / Ingonda Hannesschläger / Thomas Hochradner, Hollitzer, Wien 2015, S. 223–239.
+18)	 "Salzburger Requien der Vorklassik und ihr musikalisches Vokabular", Wissenschaftliches Jahrbuch der Tiroler Landesmuseen 2014, Innsbruck u.a.: Studienverlag, 2014 [submitted].1) "Das Vokabular der Requiemvertonungen Johann Ernst Eberlins (1702-1762)", Mozart-Jahrbuch, 2012, [in preparation].
+19)	 "Franz Xaver Gruber - Organist und Komponist", in: Franz Xaver Gruber - Zeichner und Maler, Organist und Komponist, hrsg. v. der Stille-Nacht-Gesellschaft, Salzburg: Edition Stille Nacht Gesellschaft, 2013, pp. 11-18.
+20)	 "Musik am Salzburger Dom im 19. Jahrhundert" (with Lars E. Laubhold), in: Salzburgs Musikgeschichte im Zeichen des Provinzialismus? Die ersten Jahrzehnte des 19. Jahrhunderts, hrsg. v. Dominik Šedivý, Wien: Hollitzer.
+21)	 "Die Requiemvertonungen Luigi Gattis", in: Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817), Symposiumsbericht, hrsg. v. Eva Neumayr - Lars E. Laubhold unter der Projektleitung von Ernst Hintermaier, Lucca: LIM (Veröffentlichungen Salzburger Musikgeschichte 12, Musica Transalpina 2, Schriftenreihe des Archivs der Erzdiözese Salzburg 12), S. 387-417.
+22)	 "Luigi (Maria Baldassare) Gatti. Salzburgs letzter Hofkapellmeister" (with Ernst Hintermaier and Lars E. Laubhold), in: Keine Chance für Mozart. Fürsterzbischof Hieronymus Colloredo und sein letzter Hofkapellmeister Luigi Gatti (1740-1817), Symposiumsbericht, hrsg. v. Eva Neumayr - Lars E. Laubhold unter der Projektleitung von Ernst Hintermaier, LIM Verlag 2013  (Veröffentlichungen Salzburger Musikgeschichte 12, Musica Transalpina 2, Schriftenreihe des Archivs der Erzdiözese Salzburg 12), pp. 23-67.
+23)	 "Repertoire und Repertoireentwicklung in der Musik am Salzburger Dom in der ersten Hälfte des 19. Jahrhunderts. Beobachtungen am Musikalienbestand Dommusikarchiv im Archiv der Erzdiözese Salzburg" (with Lars E. Laubhold), in: Salzburgs Musikgeschichte im Zeichen des Provinzialismus? Die ersten Jahrzehnte des 19. Jahrhunderts, hrsg. v. Dominik Šedivý, Wien: Hollitzer
+24)	 "Luigi Gatti and the Collection of Salzburg Sources in the Library of the Conservatorio "Luigi Cherubini" in Florence" (with Lars E. Laubhold), in: Luigi Gatti e la musica a Mantova e a Salisburgo nel secondo Settecento (Conservatorio "Lucio Campiani", Mantua, 9.-10. october 2010), ed. by Alessandro Lattanzi, Lucca: LIM, 2017.
+25)	 "Luigi Gatti and the Catalogus Musicalis in Ecclesia Metropolitana of the Salzburg Cathedral" (with Lars E. Laubhold),  in: Luigi Gatti e la musica a Mantova e a Salisburgo nel secondo Settecento (Conservatorio "Lucio Campiani", Mantua, 9.-10.october 2010), ed. by Alessandro Lattanzi, Lucca: LIM 2017.
+26)	"Drei bisher unbekannte Autographe Franz Xaver Grubers (1787-1863) aus dem Besitz Joseph Mohrs (1792-1848)", in: Blätter der Stille-Nacht-Gesellschaft, 51 (2012), p. 7.
+27)	"War Joseph Mohr (1792-1848) auch Komponist?" in: Blätter der Stille-Nacht-Gesellschaft, 49 (2010), pp. 1-5.
+28)	" '...was mein Bruder in seinen Chören mit der Ewigkeit treibt...' Quellen zur frühen Rezeption von Joseph Haydns Schöpfung" (with Lars E. Laubhold), in: Haydn-Studien, 10/1,  2010, pp. 55-70.
+29)	"Quellen zur Rezeption des Requiems von W. A. Mozart in Salzburg im frühen 19. Jahrhundert" (with Lars E. Laubhold), in: Mozart Jahrbuch, 2009/10, Kassel, 2011, pp. 187-209.
+30)	"Die Quellen der Salzburger Dommusik in der Musikbibliothek des Benediktinerklosters Maria Einsiedeln" (with Lars E. Laubhold), in: Schweizer Jahrbuch für Musikwissenschaft, 30 (2010), S. 163-188.
+31)	"Zur Musikpflege der Salzburger Ursulinen in der ersten Hälfte des 18. Jahrhunderts", in: Klang-Quellen. Festschrift für Ernst Hintermaier zum 65. Geburtstag, hrsg. v. Gerhard Walterskirchen and Lars E. Laubhold, München: Strube, 2010 (Veröffentlichungen zur Salzburger Musikgeschichte, 9), pp. 102-112.
+32)	"Zur Musikpflege im Salzburger Ursulinen-Konvent in der zweiten Hälfte des 18. Jahrhunderts", in: Kirchenmusikalisches Jahrbuch, 93 (2010), pp. 89-101.
+33)	"Komponierende Zeitgenossinnen Mozarts und ihre Darstellung in Mozart-Biographien: Zum Frauenbild der Mozart-Biographen", in: "Ein unerschöpflicher Reichthum an Ideen..." Komponistinnen zur Zeit Mozarts, ed. by Elena Ostleitner and Gabriele Dorffner, Strasshof-Wien-Bad Aibling: 4/4 Verlag, 2006, pp. 139-151.
 
 Editions:
 1) Otto Nicolai, Messe in D-Dur, Stuttgart: Carus 2010
 
-reviewed by:
-
-Ulrich Konrad in: Die Tonkunst, April 1012, 2/6 (2012), pp. 259–262.
-
-Anon., in: Württembergische Blätter für Kirchenmusik, 3/2012
-
-Anon., in: Kirchenmusikalische Mitteilungen der Erzdiözese Freiburg, Nov. 2010
-
-Anon., in: Musik & Liturgie, 5/10
-
 2) Johann Ernst Eberlin. Motetten für die Vorfasten- und Fastenzeit. Proprien für die Sonntage Septuagesima, Sexagesima, Quinquagesima, den Achermittwoch, den Passions- und Palmsonntag. Nach der autographen Partitur im Musikalienarchiv der Erzabtei St. Peter Salzburg zur 250. Wiederkehr des Todestages von Johann Ernst Eberlin vorgelegt von Eva Neumayr, München: Strube 2013 (Denkmäler der Musik in Salzburg, 21).
-
- 
 
 Editorial assistance
 Stille Nacht -  Die Autographen von Joseph Mohr und Franz Xaver Gruber -  Mit Dokumenten zur Geschichte des Liedes (german/english), hrsg. v. Thomas Hochradner - Gerhard Walterskirchen (Denkmäler der Musik in Salzburg 15), München: Strube, 2008.
 
 Luigi Gatti e la musica a Mantova e a Salisburgo nel secondo Settecento, Symposiumsbericht (Conservatorio "Lucio Campiani", Mantua, 9.-10. october 2010), ed. by Alessandro Lattanzi, Lucca: LIM (Musica Transalpina 1) [in preparation].
-
  
 
 Entries in Reference Publications:
